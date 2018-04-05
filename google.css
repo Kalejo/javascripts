@@ -1,5 +1,4 @@
 
-
 .header-right
 {
 
@@ -30,12 +29,39 @@ padding-right: 20px;
 {
   border-radius: 6px;
 }
+
+.button_container
+{
+  width: 100%
+  text-align:center;
+}
+#button_modal
+{
+  height: 450px;
+  width: 1500px;
+  background-color: #e74c3c;
+  color: #ffffff;
+  font-family: helvetica;
+  font-size: 60px;
+  border:none;
+  cursor: pointer;
+  margin-top: 10px;
+  padding:  5%;
+
+}
+#modal
+{
+  
+}
+
+
 .gros_logo
 {
-	margin-top:90px;
-	margin-bottom: 50px;
+	margin-top:-200px;
+	margin-bottom: 800px;
 	margin-left: 650px;
 	margin-right: 650px;
+  position: absolute;
 }
 
 input {
@@ -48,11 +74,13 @@ width:800px;
 
 .container 
 {
+  margin-top: 200px;
   text-align:center;
   width:100%;
-  height:auto;
-  padding-top:130px;
-  margin:10px;
+  height:100px;
+  padding-top:90px;
+  margin:8px;
+  position: absolute;
 }
 
 .footer a
@@ -110,7 +138,8 @@ button
   font-weight:bold;
   font-family:arial;
   border-radius: 4px;
-  margin-bottom: 20px;
+  margin-bottom: -200px;
+  
 
  }
 a
@@ -127,9 +156,6 @@ button:hover
   border:1px solid #D9D9D9;
   padding:10px;
 }
-.France
-{
-	text-align:left;
-	margin-top: 10px;
-	font-size: 20px;
-}
+
+
+
