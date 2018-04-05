@@ -1,0 +1,1 @@
+<a href="/home/nabz/Bureau/projetjavascripts/javascripts/google.html" onclick="alert('file:///home/nabz/Bureau/projetjavascripts/javascripts/google.html');">AFFICHER LES ÉLÉMENTS CENTRAUX</a>
